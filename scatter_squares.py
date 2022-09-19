@@ -163,3 +163,6 @@ plt.savefig("square_plot.png", bbox_inches="tight")
 
 #The first argument is the filename for the plot's image, the second of which trims the extra whitespace from the plot,
 #hence why it says "tight."
+
+#Now that I've finally got round to getting my head around GitHub, I am adding this line in order for the file to be
+#updated.  Let us now see if Pycharm and GitHub are indeed integrated!
