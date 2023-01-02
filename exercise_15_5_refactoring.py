@@ -2,6 +2,7 @@
 # in essence allowing us to use it in the "fill_walk()" method, in turn shortening it to an acceptable length.
 from random import choice
 
+
 class RefactoredRandomWalk:
     """A refactored random walk class."""
 
