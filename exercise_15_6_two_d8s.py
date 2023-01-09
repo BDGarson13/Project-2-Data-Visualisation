@@ -10,7 +10,6 @@ from die import Die
 die_1 = Die(8)
 die_2 = Die(8)
 
-results = []
 max_result = die_1.num_sides + die_2.num_sides
 
 # Note to self: remember  ensure that where "roll_num" \= "result."
